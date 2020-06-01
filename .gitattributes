@@ -1,0 +1,2 @@
+*.html linguist-detectable=false
+*.flask linguist-detectable=true
